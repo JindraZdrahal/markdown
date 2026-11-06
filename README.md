@@ -39,4 +39,8 @@ Pokud si chceme pohrát s exportem, tak se dá v Markdownvieweru pohrát s CSS n
 - [markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
 - [markdownviewer.org](https://markdownviewer.org/)
 - [github.com](https://github.com/)
-- [celá tento dokument](
+- [celý tento dokument na githubu](https://github.com/JindraZdrahal/markdown)
+
+---
+
+Tento dokument vytvořil **Jindřich Zdráhal** další mé věci najdete na webu [sskola.cz](https://sskola.cz)
