@@ -27,7 +27,7 @@ Soubor s Markdownem lze otevřít v mnoha aplikacích a přečíst i bez původn
 CO BYSTE SI VYBRALI VY?
 
 Pro plakát, kde záleží na přesném rozmístění prvků, bychom nejspíš sáhli po grafickém nebo textovém editoru. Pro rychlé zadání, poznámky či text, který chceme dále zpracovat, může být příjemnější Markdown. Ale klidně sem můžeme dát i obrázek.
-
+//dejte sem obrázek z BUMu
 
 PŘEHLED JAZYKŮ PRO TABULKU
 
