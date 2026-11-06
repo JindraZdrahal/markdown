@@ -1,6 +1,6 @@
 # Markdown: rychlý tahák pro BUM
 
-V [Markdownvieweru](https://markdownviewer.org/) vlevo píšete, vpravo vidíte výsledek. Mezi značkou a textem nadpisu či seznamu patří mezera. Prázdný řádek odděluje odstavce.
+V editoru vlevo píšete, vpravo vidíte výsledek. Mezi značkou a textem nadpisu či seznamu patří mezera. Prázdný řádek odděluje odstavce.
 
 | Název | Doslovný zápis | Poznámka |
 | :--- | :--- | :--- |
@@ -55,7 +55,8 @@ Poznámka: místní obrázek se při přenosu mezi aplikacemi nemusí přenést;
 Dokumenty Google umějí `.md` otevřít či vložit jako formátovaný text, ale výsledek tabulek a vzorců kontrolujte.
 
 - [Nápověda ke Markdownu](https://www.markdownguide.org/cheat-sheet/)
-- [Pište v Markdownvieweru](https://markdownviewer.org/)
+- [Markdownviewer](https://markdownviewer.org/)
+- [Dillinger](https://dillinger.io/)
 - [Převod do stylovaného PDF](https://markdownviewer.org/md-to-pdf)
 
 ---
