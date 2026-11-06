@@ -44,3 +44,5 @@ Pokud si chceme pohrát s exportem, tak se dá v Markdownvieweru pohrát s CSS n
 ---
 
 Tento dokument vytvořil **Jindřich Zdráhal** další mé věci najdete na webu [sskola.cz](https://sskola.cz)
+
+Celý text je dostupný pod licencí [WTFPL](https://www.wtfpl.cz/)
