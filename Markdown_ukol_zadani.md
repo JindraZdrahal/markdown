@@ -1,0 +1,43 @@
+DVA ZPŮSOBY, JAK PSÁT A UPRAVOVAT TEXT
+
+Když upravujeme dokument ve Wordu nebo podobném programu, pracujeme většinou v režimu WYSIWYG. Název pochází z anglického What You See Is What You Get: výsledná stránka se podobá tomu, co právě vidíme při práci. Text označíme myší, klikneme na tlačítko pro tučné písmo, vybereme styl nadpisu nebo upravíme tabulku. Můžeme se soustředit na vzhled dokumentu a hned kontrolovat výsledek.
+
+CO DĚLAJÍ ZNAČKOVACÍ JAZYKY
+
+Ve značkovacím jazyce zapisujeme do textu značky, které popisují jeho části. Značka například říká: 
+toto je nadpis, 
+toto je odkaz a 
+zde patří obrázek. 
+
+Program pak podle značek vytvoří výslednou podobu. Obsah a jeho vzhled tak nemusíme řešit ve stejném okamžiku.
+
+Příklady, se kterými se můžeme setkat
+
+HTML popisuje strukturu webových stránek.
+Markdown umožňuje rychle zapisovat nadpisy, seznamy a odkazy třeba v poznámkách nebo dokumentaci. 
+LaTeX se používá při sazbě odborných textů a matematických vzorců. 
+XML slouží především k popisu a předávání strukturovaných dat. 
+
+Tyto jazyky nemají stejný účel, ale spojuje je myšlenka, že význam částí textu lze vyjádřit zápisem značek.
+
+PROČ SE HODÍ OBYČEJNÝ TEXT
+
+Soubor s Markdownem lze otevřít v mnoha aplikacích a přečíst i bez původního editoru. Stejný zdroj může posloužit jako poznámka, podklad pro web nebo dokument k převodu do PDF. Tomu se někdy říká platformní nezávislost: nejsme odkázáni na jediný program nebo operační systém. Převod však nemusí zachovat všechny zvláštní funkce konkrétní aplikace. Taky tento formát rády používají AI.
+
+CO BYSTE SI VYBRALI VY?
+
+Pro plakát, kde záleží na přesném rozmístění prvků, bychom nejspíš sáhli po grafickém nebo textovém editoru. Pro rychlé zadání, poznámky či text, který chceme dále zpracovat, může být příjemnější Markdown. Ale klidně sem můžeme dát i obrázek.
+
+
+PŘEHLED JAZYKŮ PRO TABULKU
+
+Jazyk Typické využití Ukázka značky nebo příkazu
+Markdown poznámky a dokumentace # Nadpis  
+HTML webové stránky <h1>Nadpis</h1>  
+LaTeX odborné texty a vzorce \section{Nadpis}  
+XML strukturovaná data <nazev>Text</nazev>  
+
+ODKAZY K DALŠÍMU ČTENÍ
+
+Přehled Markdownu: https://commonmark.org/help/
+Další texty o technologiích a výuce: https://www.sskola.cz
