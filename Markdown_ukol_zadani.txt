@@ -39,5 +39,5 @@ XML strukturovaná data <nazev>Text</nazev>
 
 ODKAZY K DALŠÍMU ČTENÍ
 
-Přehled Markdownu: https://commonmark.org/help/
+Přehled Markdownu: https://www.markdownguide.org/cheat-sheet/
 Další texty o technologiích a výuce: https://www.sskola.cz
