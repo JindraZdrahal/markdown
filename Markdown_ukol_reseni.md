@@ -27,7 +27,7 @@ Tyto jazyky nemají stejný účel, ale spojuje je myšlenka, že význam část
 ## CO BYSTE SI VYBRALI VY?
 
 Pro plakát, kde záleží na přesném rozmístění prvků, bychom nejspíš sáhli po grafickém nebo textovém editoru. Pro rychlé zadání, poznámky či text, který chceme dále zpracovat, může být příjemnější Markdown. Ale klidně sem můžeme dát i obrázek.
-![BUM](https://i.postimg.cc/dVBLd536/codeweek.png)
+![BUM](https://i.postimg.cc/3wGQb488/BUM.jpg)
 
 ### PŘEHLED JAZYKŮ PRO TABULKU
 
@@ -42,5 +42,6 @@ Pro plakát, kde záleží na přesném rozmístění prvků, bychom nejspíš s
 
 ---
 
-Přehled Markdownu: [commonmark.org/help/](https://commonmark.org/help/)
+Přehled Markdownu: [markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
+
 Další texty o technologiích a výuce: [www.sskola.cz](https://www.sskola.cz)
